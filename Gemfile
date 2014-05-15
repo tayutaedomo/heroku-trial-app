@@ -4,6 +4,8 @@ source 'https://rubygems.org'
 
 gem 'rails'
 
+gem 'jquery-rails'
+
 group :production do
   gem 'rails_12factor'
   gem 'pg'
